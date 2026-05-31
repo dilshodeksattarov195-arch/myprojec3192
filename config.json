@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "clusterpalidate",
+        "uuid": 30308040,
+        "checksum": "g680x8"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
